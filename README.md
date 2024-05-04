@@ -23,7 +23,7 @@ The objective of the project can be broken down into the following detailed comp
 - Power BI for dashboard creation and visualization
 - Time series analysis techniques for sales forecasting
 
-.## Contributor
+## Contributor
 
-- [Prajjwal Jain] - [prajjwaljain9058@gmail.com] - [https://www.linkedin.com/in/prajjwal9/] 
+- Prajjwal Jain - prajjwaljain9058@gmail.com - https://www.linkedin.com/in/prajjwal9/
 
